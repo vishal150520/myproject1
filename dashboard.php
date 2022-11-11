@@ -1,5 +1,5 @@
 <?php
 session_start();
-echo "user";
+echo "Welcome ";
 echo $_SESSION["username"];
 ?>
