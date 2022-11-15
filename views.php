@@ -14,4 +14,4 @@ $result = $db->query("SELECT image FROM images ORDER BY id DESC");
     </div> 
 <?php }else{ ?> 
     <p class="status error">Image(s) not found...</p> 
-<?php } ?>
+<?php } ?>  
